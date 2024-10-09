@@ -65,7 +65,7 @@ function handleScrollForCounters() {
 window.addEventListener('scroll', handleScrollForCounters);
 
 // Initialize typing animation
-const typingAnimation = new TypingAnimation("#typing-text", ["Junior Data Scientist"]);// "Kaggle Master",
+const typingAnimation = new TypingAnimation("#typing-text", ["Data Analyst","Machine Learning Engineer"]);// 
 
 
 window.addEventListener("scroll", function () {
